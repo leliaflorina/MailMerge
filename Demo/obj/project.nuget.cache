@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BiFAYxuA6qlI0rQB4zd1gw2IF/CJfnwobFz6hMShUBW8iojM4klVsBBKIN8pZN5I5UlD3TieNACTKYS+iUb5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lelia\\source\\repos\\MailMerge\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lelia\\.nuget\\packages\\gembox.document\\33.0.1000\\gembox.document.33.0.1000.nupkg.sha512",
+    "C:\\Users\\lelia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lelia\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\lelia\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
