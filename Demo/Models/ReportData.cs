@@ -13,7 +13,16 @@ namespace Demo.Models
         public DateTime Stamp { get; set; }
 
         public string Objective { get; set; }
+        
+        public GroupModel[] Records { get; set; }
 
-        public StringModel[] Notes { get; set; }
+        public dynamic RecordsWrap => new { Records };
+    }
+    public class GroupModel
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+
+        public string Notes { get; set; }
     }
 }
